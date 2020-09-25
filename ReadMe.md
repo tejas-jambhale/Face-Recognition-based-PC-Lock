@@ -1,6 +1,6 @@
 ## One Day Build
 
-### Simple app to lock your pc when you are not using it.
+### Simple app to lock your pc when accessed by someone else.
 
 
 ### Create Training set

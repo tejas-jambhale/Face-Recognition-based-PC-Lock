@@ -24,7 +24,7 @@ py train.py data/valid/0 200
 `
 
 `
-py train.py data/valid/1 2000
+py train.py data/valid/1 200
 `
 
 ### Run the code

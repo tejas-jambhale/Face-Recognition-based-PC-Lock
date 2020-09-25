@@ -1,9 +1,9 @@
-##One Day Build
+## One Day Build
 
-###Simple app to lock your pc when you are not using it.
+### Simple app to lock your pc when you are not using it.
 
 
-###Create Training set
+### Create Training set
 Run train.py to create the unlock data set. Take pictures of your face to keep the screen unlocked
 
 `
@@ -16,7 +16,7 @@ Similarly run train.py again to create lock set. Add random faces, objects for w
 py train.py data/train/1 2000
 `
 
-###Validation dataset also needs to be added
+### Validation dataset also needs to be added
 Repeat as above for
 
 `
@@ -26,7 +26,7 @@ py train.py data/valid/0 200
 py train.py data/valid/1 2000
 `
 
-###Run the code
+### Run the code
 first run model.py
 `
 py model.py
